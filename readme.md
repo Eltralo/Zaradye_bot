@@ -81,7 +81,7 @@
 * Медведев Игорь Олегович               ya.m67@yandex.ru
 * Ковалева Екатерина Сергеевна          Eltara_@mail.ru
 * Велулаев Рустем Решатович             rustem.velulaev@yandex.ru
-* Даминов Артур Флюрович                @dedalus1982@mail.ru
+* Даминов Артур Флюрович                dedalus1982@mail.ru
    
 
    
